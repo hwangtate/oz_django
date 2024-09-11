@@ -12,7 +12,6 @@ pymysql = "^1.1.1"
 cryptography = "^43.0.1"
 coverage = "^7.6.1"
 
-
 [tool.poetry.group.dev.dependencies]
 black = "^24.8.0"
 isort = "^5.13.2"
